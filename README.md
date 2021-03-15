@@ -1,5 +1,5 @@
 - 👋  Olá, sou o @gtadashii
-- 👀  Interesse em Python, PHP e Node.JS e Bando de dados
+- 👀  Interesse em Python, PHP e Node.JS e Banco de dados
 - 🌱  Atualmente estou aprendendo Laravel e Orientação a Objetos
 - 📫  Para contato: guilhermetadashii.dev@gmail.com
 
