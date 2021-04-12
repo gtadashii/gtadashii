@@ -1,6 +1,6 @@
 Olá sou o Guilherme Tadashii
 
-- :man_technologist: desenvolvedor na Martech Agency
+- :man_technologist: Desenvolvedor na Martech Agency
 - 👀  Interesse em Python Flutter e NodeJS
 - 🌱  Atualmente estou aprendendo NodeJS e Flutter
 - 📫  Para contato: guilhermetadashii.dev@gmail.com
