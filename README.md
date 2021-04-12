@@ -1,4 +1,4 @@
-Olá sou o Guilherme Tadashii
+Olá sou o Guilherme Tadashii :wave:
 
 - :man_technologist: Desenvolvedor na Martech Agency
 - 👀  Interesse em Python Flutter e NodeJS
