@@ -6,7 +6,7 @@
 ### Hello there! Welcome to my profile page.
 <img style="margin: 0 auto" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="200">
 
-- 👨‍💻 I’m Back-end developer intern at <a target="_blank" href="https://martech.ppg.br/">Martech Agency</a>
+- 👨‍💻 I’m Junior back-end developer at <a target="_blank" href="https://www.credihome.com.br/">CrediHome</a>
 - 📚 I’m Computer System Analyst student at <a target="_blank" href="https://www.impacta.edu.br/">Impacta</a>
 - 🚀 I’m former NodeJs student at <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>
 - 🔧 I’m Mechanical Enginner by <a target="_blank" href="https://portal.anhembi.br/">Anhembi Morumbi</a>
