@@ -7,7 +7,7 @@
 <img style="margin: 0 auto" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="200">
 
 - 👨‍💻 I’m Software Engineer at <a target="_blank" href="https://www.credihome.com.br/">CrediHome</a> by Loft
-- 📚 I’m Computer System Analyst student at <a target="_blank" href="https://www.impacta.edu.br/">Impacta</a>
+- 📚 I’m former Computer System Analyst student at <a target="_blank" href="https://www.impacta.edu.br/">Impacta</a>
 - 🚀 I’m former NodeJs student at <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>
 - 🔧 I’m Mechanical Enginner by <a target="_blank" href="https://portal.anhembi.br/">Anhembi Morumbi</a>
 
