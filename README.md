@@ -6,6 +6,6 @@
 ### Hello there! Welcome to my profile page.
 
 - 👨‍💻 I’m Software Engineer at Loft
-- 📚 I’m Computer System Analyst by <a target="_blank" href="https://www.impacta.edu.br/">Impacta</a>
+- 💻 I’m Computer System Analyst by <a target="_blank" href="https://www.impacta.edu.br/">Impacta</a>
 - 🚀 I’m former NodeJs student at <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>
 - 🔧 I’m Mechanical Enginner by <a target="_blank" href="https://portal.anhembi.br/">Anhembi Morumbi</a>
